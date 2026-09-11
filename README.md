@@ -86,4 +86,4 @@ I'm interested in **Data Analyst opportunities** and projects where data can be 
 
 ---
 
-<sub>📍 Brazil • Open to remote opportunities worldwide</sub>
+### 🌎 Based in Brazil • Open to remote opportunities worldwide
