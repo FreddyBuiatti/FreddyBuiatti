@@ -2,7 +2,7 @@
 
 ### 📊 Data Analyst | Turning data into insights and better decisions
 
-I'm a **Data Analyst** with a background in **International Relations**, combining business understanding with data-driven problem solving.
+I'm a **Data Analyst** with a bachelor's degree in **International Relations**, combining business understanding with data-driven problem solving.
 
 I enjoy exploring datasets, identifying patterns, building visualizations, and translating complex information into clear and actionable insights.
 
