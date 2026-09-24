@@ -72,10 +72,10 @@ Currently focused on expanding my portfolio through real-world data analysis pro
 
 ## 📈 GitHub Stats
 
-![Freddy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FreddyBuiatti\&show_icons=true\&theme=github_dark\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FreddyBuiatti\&layout=compact\&theme=github_dark\&hide_border=true)
-
+<p align="center">
+  <img src="./profile/stats.svg" height="170" alt="Freddy Buiatti's GitHub Stats" />
+  <img src="./profile/top-langs.svg" height="170" alt="Freddy Buiatti's Top Languages" />
+</p>
 ---
 
 ## 🤝 Let's Connect
