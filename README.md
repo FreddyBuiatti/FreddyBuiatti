@@ -76,7 +76,6 @@ Currently focused on expanding my portfolio through real-world data analysis pro
   <img src="./profile/stats.svg" height="170" alt="Freddy Buiatti's GitHub Stats" />
   <img src="./profile/top-langs.svg" height="170" alt="Freddy Buiatti's Top Languages" />
 </p>
----
 
 ## 🤝 Let's Connect
 
